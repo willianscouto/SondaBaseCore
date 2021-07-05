@@ -1,0 +1,2 @@
+# SondaBaseCore
+Base Sonda Core
